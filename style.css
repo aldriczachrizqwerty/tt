@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">);
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    Oswald:wght@200&display=swap" rel="stylesheet">
+}
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th,
+td{
+    vertical-align: top;
+    padding: 0.75rem;
+}
+
+td{
+    font-family: Oswald:wght@200&display=swap" rel="stylesheet">;
+}
+
+table{
+    margin-left: 50px;
+    background-color: aqua;
+}
+
+td:hover{
+    transform: scale(1.2);
+    background-color: gainsboro;
+}
+
+header{
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-left: 350px;
+}
